@@ -59,10 +59,6 @@ I don't tie my engineering approach to a single framework or stack. I focus on u
 
 I'm comfortable learning an unfamiliar tool or framework, reading an existing codebase, following established conventions, and adapting to the technical environment of a team. **The goal is not to impose my preferred stack — it's to help the team build and maintain the right solution.**
 
-## Current direction
-
-I'm building a portfolio of practical projects across **software engineering, data, and AI**, with an emphasis on clear documentation, sound technical decisions, and demonstrable results.
-
 ---
 
 **Software Engineering · Data · AI**
