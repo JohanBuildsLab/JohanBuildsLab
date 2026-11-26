@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Johan 👋
 
-<!--
-**JohanBuildLab/JohanBuildLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software to solve practical problems and turn ideas into useful digital products.
 
-Here are some ideas to get you started:
+I'm a software developer interested in **web application development, software engineering, and the thoughtful use of data and AI**. I enjoy understanding how things work, building them, and improving them along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Languages:** PHP, Java, C, C++
+- **Frameworks & tools:** Laravel, Flutter, Qt
+- **Currently exploring:** React, Node.js, modern full-stack architecture, data and AI
+
+### A project
+
+- **[AppTask](https://github.com/JohanBuildLab/apptask)** — a task and project management application built with Laravel.
+
+### What I'm interested in
+
+Building reliable applications, learning through real projects, and collaborating with people who care about making useful things.
+
+---
+
+*Always building. Always learning.*
